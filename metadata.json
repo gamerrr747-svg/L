@@ -1,0 +1,6 @@
+{
+  "name": "TrigoLab - Trigonometric Functions & Transformations (10.2.3.1 & 10.2.3.2)",
+  "description": "Interactive mathematics learning platform for mastering trigonometric definitions, properties, unit circle dynamics, and function transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
